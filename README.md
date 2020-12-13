@@ -2,23 +2,22 @@
 
 You can find the live site here -> https://fervent-mirzakhani-e77be5.netlify.app/
 
-# Project Screenshots 
+# Project Screenshots
 
  <figure>
   <img src="images/Screenshot1.png" alt="Home Screen Image" style="width:60%">
   <figcaption>Home Screen</figcaption>
-</figure> 
+</figure>
 
  <figure>
   <img src="images/Screenshot2.png" alt="Providing Top and Bottom Text" style="width:60%">
   <figcaption>Providing Top and Bottom Text for meme</figcaption>
-</figure> 
+</figure>
 
  <figure>
   <img src="images/Screenshot3.png" alt="Final Result" style="width:60%">
   <figcaption>Meme Generated</figcaption>
-</figure> 
-
+</figure>
 
 ## To run the Project
 
@@ -52,20 +51,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
