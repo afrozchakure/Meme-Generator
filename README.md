@@ -4,20 +4,27 @@ You can find the live site here -> https://fervent-mirzakhani-e77be5.netlify.app
 
 # Project Screenshots 
 
- <figure>
-  <img src="images/Screenshot1.png" alt="Home Screen Image" style="width:60%">
-  <figcaption>Home Screen</figcaption>
-</figure> 
 
- <figure>
-  <img src="images/Screenshot2.png" alt="Providing Top and Bottom Text" style="width:60%">
-  <figcaption>Providing Top and Bottom Text for meme</figcaption>
-</figure> 
+ <div>
+  <figure>
+   <center><h3>1. Home Screen</h3></center>
+   <img src="images/Screenshot1.png" alt="Home Screen Image" width = 600px height= 100%>
+  </figure> 
+ </div>
+ 
+ <div>
+  <figure>
+   <center><h3>2. Providing Top and Bottom Text for meme</h3></center>
+   <img src="images/Screenshot2.png" alt="Providing Top and Bottom Text" width = 600px height= 100%>
+  </figure> 
+ </div>
 
- <figure>
-  <img src="images/Screenshot3.png" alt="Final Result" style="width:60%">
-  <figcaption>Meme Generated</figcaption>
-</figure> 
+ <div>
+  <figure>
+   <center><h3>3. Meme Generated</h3></center>
+   <img src="images/Screenshot3.png" alt="Final Result" width = 600px height= 100%>
+  </figure> 
+ </div>
 
 
 ## To run the Project
